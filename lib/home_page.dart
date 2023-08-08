@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
+  final int days = 20;
   const HomePage({super.key});
 
   @override
